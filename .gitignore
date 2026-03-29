@@ -1,0 +1,11 @@
+# k-skill secrets — never commit these
+secrets.env
+secrets.env.plain
+keys.txt
+
+# age key directory
+age/
+
+# sops temp files
+*.dec
+*.tmp
